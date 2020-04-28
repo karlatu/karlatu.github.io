@@ -1,0 +1,69 @@
+/*CSS DOCUMEMNT*/
+
+body{
+    background-color: #F9F9D2;
+    font-family: sans-serif;
+    color: #000000;
+    margin-left: 5em;
+    margin-right: 5em;
+    padding-bottom: 3em;
+}
+
+/*Koberl at Blue*/ 
+h1{
+    font-size: 3em;
+    color: #48629E;
+    text-transform: lowercase;
+    letter-spacing: 0.1em;
+    text-align: center;
+    padding-top: 0.3em;
+}
+
+/*Main Menu*/ 
+h2{
+    font-size: 2em;
+    color: #99C4D3;
+    text-transform: lowercase;
+    letter-spacing: 0.1em;
+    text-align: left;
+    margin-left: 6em;
+}
+
+/*Categories*/ 
+h3{
+    font-size: 1.5em;
+    color: #48629E;
+    text-transform: lowercase;
+    letter-spacing: 0.1em;
+    margin-left: 8.01em;
+    margin-right: 1em;
+    padding-top: 0.2em;
+}
+
+/*Dishes*/
+h4{
+    font-size: 1.1em;
+    text-transform: lowercase;
+    letter-spacing: 0.07em;
+    margin-left: 8.7em; 
+    margin-right: 1em;
+}
+
+/*Descriptions*/
+p{
+    font-size: 1em;
+    font-style: italic;
+    margin-left: 9.6em;
+    margin-right: 1em;
+}
+
+p.price{
+    font-size: 1em;
+    font-style: normal;
+    margin-left: 9.6em;
+    padding-bottom: 1em;
+}
+
+ul{
+    list-style: none;
+}
