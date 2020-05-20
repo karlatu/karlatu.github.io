@@ -1,0 +1,113 @@
+/*STYLE CSS*/
+
+@import url("https://use.typekit.net/xii7wiv.css");
+
+div.container {
+	text-align: center;
+}
+
+img {
+	width: 100%;
+	padding-top: 1em;
+	display: block;
+}
+
+/* logo */ 
+h1 {
+	display: inline-block;
+    padding-bottom: 0.6em;
+}
+
+h2 {
+	font-family: legitima, serif;
+    font-weight: 500;
+    font-size: 1.9em;
+    font-style: italic;
+    letter-spacing: 0.1em;
+	padding-top: 1em;
+}
+
+h3 {
+    font-family: legitima, serif;
+    font-weight: 500;
+	font-size: 1.4em;
+	font-weight: 600;
+	font-style: italic;
+	letter-spacing: 0.17em;
+    color: #d67f2f;
+	padding-top: 0.9em;
+    padding-bottom: 0.2em;
+}
+
+h4 {
+	font-family: legitima, serif;
+    font-weight: 500;
+    font-style: italic;
+    font-size: 1.1em;
+	text-align: left;
+	width: 95%;
+	display: inline-block;
+	padding-top: 0.5em;
+}
+
+p {
+	font-family: legitima, serif;
+    font-weight: 150;
+    font-style: normal;
+	text-align: center;
+	width: 95%;
+	display: inline-block;
+    padding-top: 0.6em;
+}
+
+p.about, p.location {
+    padding-bottom: 1em;
+}
+
+p.location {
+    font-size: 1.1em;
+}
+
+p.menu {
+    text-align: left;
+}
+
+p.price{
+    text-align: right;
+    font-weight: 200;
+    font-size: 1.2em;
+    color: #8c3702;
+}
+
+ul {
+	list-style-type: none;
+	padding: 0;
+}
+
+nav ul li {
+	font-family: legitima, serif;
+    font-weight: 600;
+    font-style: italic;
+    font-size: 1.3em;
+	letter-spacing: 0.27em;
+	margin-left: 1.6em;
+    display: inline;
+}
+
+nav ul li a {
+	text-decoration: none;
+	color: #000000;
+}
+
+nav a:hover,
+.clicked {
+	color: #FFFFFF;
+	background: #f3d8af;
+}
+
+ul, h1, h2, h3, h4, p {
+	margin: 0;
+}
+
+
+
