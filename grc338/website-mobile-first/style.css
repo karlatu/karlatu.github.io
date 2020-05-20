@@ -106,6 +106,10 @@ nav a:hover,
 	background: #f3d8af;
 }
 
+.navbar a.active {
+  background-color: #d67f2f;
+}
+
 ul, h1, h2, h3, h4, p {
 	margin: 0;
 }
