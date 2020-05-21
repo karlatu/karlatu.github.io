@@ -97,7 +97,7 @@ nav ul li {
 	letter-spacing: 0.27em;
 	margin-left: 1.3em;
     margin: 0;
-    display: inline-block;
+    display: inline;
 }
 
 nav ul li a {
