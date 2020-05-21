@@ -82,11 +82,11 @@ p.price{
 ul {
 	list-style-type: none;
 	padding: 0;
-	width: 100%;
 }
 
 li {
 	margin-left: 1em;
+	width: 100%;
 }
 
 nav ul li {
