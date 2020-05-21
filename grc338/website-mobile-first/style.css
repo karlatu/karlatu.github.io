@@ -85,10 +85,10 @@ ul {
 	margin: 0;
 }
 
-li {
+/*li {
 	margin-left: 0.9em;
 	width: 100%
-}
+}*/
 
 nav ul li {
 	font-family: legitima, serif;
@@ -96,7 +96,7 @@ nav ul li {
     font-style: italic;
     font-size: 1.3em;
 	letter-spacing: 0.27em;
-    display: inline-flex;
+    display: inline-block;
 }
 
 nav ul li a {
