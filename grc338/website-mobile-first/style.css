@@ -82,10 +82,11 @@ p.price{
 ul {
 	list-style-type: none;
 	padding: 0;
+	margin: 0;
 }
 
 li {
-	margin-left: 1.9em;
+	margin-left: 0.8em;
 }
 
 nav ul li {
@@ -94,9 +95,7 @@ nav ul li {
     font-style: italic;
     font-size: 1.3em;
 	letter-spacing: 0.27em;
-	margin-left: 1.3em;
-	margin: 0;
-    display: inline-flex;
+    display: inline-block;
 }
 
 nav ul li a {
@@ -108,6 +107,10 @@ nav a:hover,
 .clicked {
 	color: #FFFFFF;
 	background: #f3d8af;
+}
+
+.navbar a.active {
+  background-color: #d67f2f;
 }
 
 ul, h1, h2, h3, h4, p {
