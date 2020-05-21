@@ -86,7 +86,6 @@ ul {
 
 li {
 	margin-left: 1em;
-	width: 100%;
 }
 
 nav ul li {
@@ -96,6 +95,7 @@ nav ul li {
     font-size: 1.3em;
 	letter-spacing: 0.27em;
 	margin-left: 1.3em;
+	margin: 0;
     display: inline-flex;
 }
 
