@@ -82,7 +82,6 @@ p.price{
 ul {
 	list-style-type: none;
 	padding: 0;
-	width: 100%;
 }
 
 li {
@@ -97,6 +96,7 @@ nav ul li {
 	letter-spacing: 0.27em;
 	margin-left: 1.3em;
     margin: 0;
+	width: 100%;
     display: inline-flex;
 }
 
