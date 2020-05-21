@@ -84,19 +84,15 @@ ul {
 	padding: 0;
 }
 
-/*li {
-	margin-left: 0.9em;
-	width: 100%
-}*/
-
 nav ul li {
 	font-family: legitima, serif;
     font-weight: 600;
     font-style: italic;
     font-size: 1.3em;
 	letter-spacing: 0.27em;
+	margin-left: 1.3em;
+    margin: 0;
     display: inline-flex;
-	margin: 0;
 }
 
 nav ul li a {
@@ -110,13 +106,6 @@ nav a:hover,
 	background: #f3d8af;
 }
 
-.navbar a.active {
-  background-color: #d67f2f;
-}
-
 ul, h1, h2, h3, h4, p {
 	margin: 0;
 }
-
-
-
