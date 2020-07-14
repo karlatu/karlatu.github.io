@@ -1,0 +1,127 @@
+/*CSS document*/
+
+div.container {
+    max-width: 40em;
+    margin: auto;
+}
+
+header {
+    margin: 5;
+    padding-top: 0;
+}
+
+body {
+    font-family: interstate, sans-serif;
+    font-weight: 500;
+    font-style: italic;
+}
+
+/*logo*/
+h1 {
+    max-width: 12em;
+    max-height: 10em;
+	align-content: center;
+    margin: auto;
+    padding-top: 0;
+} 
+
+h2 {
+    margin: 0.5em;
+    text-align: center;
+}
+ 
+h3, .teaser {
+   font-family: interstate, sans-serif;
+   font-weight: 550;
+   font-size: 1.2em;
+   font-style: normal; 
+   margin: 0;
+   padding-bottom: 0.5em;
+}
+
+p{
+    font-weight: 400;
+    line-height: 1.8;
+    margin: 0.8em;
+    font-style: normal;
+}
+
+.teaser {
+    font-size: 1em;
+    font-weight: 500;
+    margin: 0;
+    font-style: italic;
+    line-height: normal;
+    padding-bottom: 1.2em;
+}
+
+nav {
+    text-align: center;
+}
+
+nav ul li {
+    list-style: none;
+    display: block;
+    font-family: frank-new, sans-serif;
+    font-weight: 400;
+    font-size: 1.2em;
+    font-style: italic;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    text-align: center;
+    padding: 0.4em;
+}
+
+nav ul li a {
+    text-decoration:none;
+    color: #000000;
+}
+
+nav a:hover,
+.clicked {
+	color: #BF9B93;
+}
+
+figure {
+    margin: 0;
+    padding-top: 0.5em;
+    padding-bottom: 0.7em;
+}
+
+img {
+    width: 100%;
+}
+
+figcaption {
+	font-size: 0.80em;
+	font-weight: 400;
+	font-style: italic;
+    text-align: center;
+    padding-top: 0.7em;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+	color: #0D0D0D;
+}
+
+}
+section:hover {
+    color: #BF9B93;
+}
+
+.related {
+    padding-top: 1.5em;
+    margin: 0;
+}
+
+.footer {
+    font-weight: 300;
+    margin: 0;
+    padding-top: 1.5em;
+}
