@@ -143,7 +143,7 @@ input {
 }
 
 div.gallery figure {
-	margin: 0;
+    margin: 0;
 	width: 100%;
 	position: absolute;
 	opacity: 0;
@@ -154,5 +154,5 @@ div.gallery nav {
 	display: grid;
 	grid-template-columns: repeat(2, 1fr);
 	grid-gap: 0.5em;
+    padding-top: 2em;
 }
-
