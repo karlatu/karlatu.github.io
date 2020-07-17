@@ -132,7 +132,7 @@ input:nth-of-type(8):checked~main figure:nth-of-type(8) {
 	opacity: 1;
 }
 
-main {
+div.gallery main {
 	position: relative;
 	overflow: hidden;
 	padding-bottom: calc(72% + 3em);
